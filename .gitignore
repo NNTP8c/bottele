@@ -1,0 +1,17 @@
+# 🔐 Secret
+.env
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Virtual environment (nếu có)
+venv/
+.env/
+.venv/
+
+# 🧠 OS files
+.DS_Store
+Thumbs.db
